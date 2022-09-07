@@ -1,4 +1,7 @@
 # Helius_Practicum_Code_Bridge
-| Repository for Practicum by Yandex's Summer 2022 Code Bridge Jam |
+
+This notebook was created for the Practicym by Yandex Summer '22 Code Bridge. I was partnered with a Wed Development student who created a landing page to display the data I analyized in an interactive manner. The link to the landig page is below
+
+| [Repository](https://github.com/xhundo/heilus-webapp) for the Helius Landing Page|
 | :------------------------------------------------------|
-| [Link](https://github.com/xhundo/heilus-webapp) to the landing page repo |
+
